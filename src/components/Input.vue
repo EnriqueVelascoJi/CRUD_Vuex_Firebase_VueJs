@@ -2,7 +2,7 @@
   <input
       type="text"
       class="form-control my-2"
-      placeholder="Ingrese tu nombre"
+      placeholder="Ingrese el nombre"
       v-model.trim="tarea.nombre"
     >
     <div class="form-check form-check-inline">

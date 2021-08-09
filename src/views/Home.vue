@@ -1,5 +1,5 @@
 <template>
-  <h1 class="mb-5 mt-5">CRUD - Vuex</h1>
+  <h1 class="mb-5 mt-5">CRUD - Vuex (Firebase)</h1>
   <form @submit.prevent="procesarFormulario"> 
     <Input :tarea="tarea" tituloBtn="Registrar Tarea"/>
   </form>
